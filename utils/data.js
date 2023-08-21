@@ -6,7 +6,7 @@ const userData = [
     {username: 'William', email: 'will@gmail.com'},
 ];
 
-const thoughtDate = [
+const thoughtData = [
     {
         thoughtText: 'dsadha sdas sad asdasdas sdasdas',
         username: "Tom"
@@ -29,7 +29,7 @@ const thoughtDate = [
     },
 ];
 
-const reactionDate = [
+const reactionData = [
     {username: 'Tom', reactionBody: 'hhahahaha'},
     {username: 'Bob', reactionBody: 'lolololol'},
     {username: 'Risk', reactionBody: 'hihihihi'},
@@ -37,4 +37,4 @@ const reactionDate = [
     {username: 'Jerry', reactionBody: 'smile'},
 ];
 
-module.exports = {userData, thoughtDate, reactionDate};
+module.exports = {userData, thoughtData, reactionData};
