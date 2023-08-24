@@ -29,12 +29,4 @@ const thoughtData = [
     },
 ];
 
-const reactionData = [
-    {username: 'Tom', reactionBody: 'hhahahaha'},
-    {username: 'Bob', reactionBody: 'lolololol'},
-    {username: 'Risk', reactionBody: 'hihihihi'},
-    {username: 'William', reactionBody: 'kakakaa'},
-    {username: 'Jerry', reactionBody: 'smile'},
-];
-
-module.exports = {userData, thoughtData, reactionData};
+module.exports = {userData, thoughtData};
