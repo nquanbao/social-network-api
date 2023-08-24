@@ -33,7 +33,7 @@
 ## Usage
 
 ![Sreenshot of App](./assets/img/screenshot.png)
-[link to walkthrough video](./assets/img/ReadMe%20Generator%20(1).mp4)
+[link to walkthrough video](https://drive.google.com/file/d/1wCPjrlcDlCnz9OfixhozdM9sCK-wJF65/view)
 [Link to my deployed github](https://github.com/nquanbao/social-network-api)
 
 ## License
