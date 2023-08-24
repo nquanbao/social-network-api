@@ -34,6 +34,7 @@
 
 ![Sreenshot of App](./assets/img/screenshot.png)
 [link to walkthrough video](./assets/img/ReadMe%20Generator%20(1).mp4)
+[Link to my deployed github](https://github.com/nquanbao/social-network-api)
 
 ## License
 
